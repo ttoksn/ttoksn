@@ -5,7 +5,7 @@ Developing GPU-accelerated InSAR / PSI algorithms for satellite SAR analysis.
 
 ## Open Source Projects
 
-- **insarx** — GPU-accelerated InSAR / PSI framework
+- **insarx** — A GPU-accelerated InSAR / PSI framework
 
 ## Research Interests
 
@@ -16,9 +16,8 @@ Developing GPU-accelerated InSAR / PSI algorithms for satellite SAR analysis.
 
 ## Current Work
 
-- Development of **insarx** (GPU InSAR framework)
+- Development of **insarx**, a GPU-accelerated InSAR framework  
 - Sentinel-1 InSAR time-series analysis
-
 
 ## Affiliation
 

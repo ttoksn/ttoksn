@@ -26,11 +26,11 @@ My research and development work is guided by four principles:
 
 ## Research Frameworks
 
-### Satellite Remote Sensing — insarx
+### Satellite Remote Sensing
 
-**Status: Open-source development**
+**Status: Research and development**
 
-[insarx](https://github.com/ttoksn/insarx) — A scientific computing framework for satellite SAR interferometry and surface deformation analysis.
+Developing a scientific computing framework for satellite SAR interferometry and surface deformation analysis.
 
 Research areas:
 
@@ -86,4 +86,4 @@ My current focus is applying this engineering experience to the development of s
 
 ## Disclaimer
 
-The research and open-source activities presented here are conducted independently in a personal capacity and do not represent the official activities, positions, or views of my employer or any affiliated organization.
+The research and development activities presented here are conducted independently in a personal capacity and do not represent the official activities, positions, or views of my employer or any affiliated organization.

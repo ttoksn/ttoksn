@@ -39,7 +39,6 @@ Research areas:
 - InSAR and Persistent Scatterer Interferometry (PSI) time-series analysis
 - GPU-accelerated scientific computation
 - Atmospheric correction and surface displacement estimation
-- Multi-orbit analysis and surface deformation reconstruction
 
 ### Computational Drug Discovery
 

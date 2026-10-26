@@ -1,30 +1,32 @@
 # Tatsuo Kusano
 
 **Scientific Software Researcher & Engineer**  
-*Research OS | AI-Assisted Scientific Workflow Orchestration | Computational Science*
+*Research OS | AI Models and Applications | Computational Science*
 
-Based in Nagano, Japan, I independently pursue research and development in scientific software engineering.
+Based in Nagano, Japan, I independently pursue research and development in scientific software engineering and AI.
 
 I design and develop domain-specific scientific computing frameworks, each of which I call a **Research OS**.
 
 Each Research OS consists of scientific computing modules based on established mathematical models, physical principles, and numerical methods.
 
-**Within each Research OS, AI assists in selecting, connecting, and reconfiguring scientific computing modules. AI does not replace the underlying scientific computation or its mathematical logic.**
+**Within each Research OS, AI assists in selecting, connecting, and reconfiguring scientific computing modules. In this orchestration role, AI does not replace the modules' underlying scientific logic.**
 
 This architecture aims to enable flexible experimentation and iterative reconfiguration of computational workflows while maintaining scientific rigor and verifiability.
+
+Alongside this work, I conduct research on AI models and develop AI applications, including locally deployed conversational systems with application-level reasoning workflows and context-aware prompt generation.
 
 ## Research Philosophy
 
 **Reliable scientific computation and flexible research workflows.**
 
-My research and development work is guided by four principles:
+My approach to research frameworks is guided by four principles:
 
 - **Scientific computing at the core** — Each computational module implements explicitly defined scientific models, algorithms, and numerical methods.
 - **AI-assisted orchestration** — AI supports the selection, interconnection, and reconfiguration of scientific computing modules.
 - **Modular research architecture** — Research workflows can be reorganized and extended without modifying the underlying scientific logic.
 - **Scientific consistency and reproducibility** — Mathematical and physical assumptions, input/output specifications, numerical validity, and consistency between modules are essential to reproducible scientific experimentation.
 
-## Research Frameworks
+## Research and Development
 
 ### Satellite Remote Sensing
 
@@ -54,6 +56,22 @@ Research areas:
 - Quantum computing approaches to molecular docking using quantum simulators
 - Modular scientific workflows and AI-assisted orchestration
 
+### AI Models and Applications
+
+**Status: Research and development**
+
+I conduct research on AI models and develop applications for computer vision, sensor data analysis, and locally deployed conversational AI.
+
+My work includes application-level reasoning workflows and mechanisms for analyzing and summarizing conversations to generate context-aware prompts.
+
+Research areas:
+
+- AI model design, evaluation, and inference optimization
+- Computer vision and AI for sensor data analysis
+- Locally deployed conversational AI systems
+- Application-level orchestration of reasoning workflows
+- Conversation analysis, summarization, and context-aware prompt generation
+
 ### Intelligent Systems and Computational Simulation
 
 **Status: Exploratory research**
@@ -62,7 +80,6 @@ Research and prototyping in intelligent systems, embedded computing, and computa
 
 Research areas:
 
-- AI model design, evaluation, and inference optimization
 - Edge AI and GPU-accelerated computer vision
 - Real-time sensor data processing
 - Robotics and distributed control architectures
@@ -80,9 +97,11 @@ I explore common architectural principles across different scientific and engine
 
 ## Background
 
-Over 30 years of experience in software engineering, system architecture, distributed computing, Linux, embedded systems, and technical leadership.
+I first explored neural computing in junior high school.
 
-My current focus is applying this engineering experience to the development of scientific research frameworks across multiple computational domains.
+I have over 30 years of experience in software engineering, system architecture, distributed computing, Linux, embedded systems, and technical leadership.
+
+I now apply this engineering experience to scientific research frameworks, AI model research, and AI application development across multiple domains.
 
 ## Disclaimer
 
